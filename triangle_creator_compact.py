@@ -6,4 +6,4 @@ for i in range(1, rows + 1):
         print(shape, end='')
     print()
 
-print(f"\nTriangle with {rows} rows and character '{shape}' created successfully!")
+print(f"\nTriangle with {rows} rows and character '{shape}' created successfully! :) ")
