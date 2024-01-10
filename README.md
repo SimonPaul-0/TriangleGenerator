@@ -9,11 +9,11 @@ Usage
 
         bash
 
-        triangle_creator_with_spaces.py
+        python triangle_creator_with_spaces.py
 
         bash
 
-        triangle_creator_compact.py
+        python triangle_creator_compact.py
 
     Input:
         Enter the number of rows for the triangle.
