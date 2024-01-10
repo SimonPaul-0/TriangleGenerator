@@ -9,11 +9,11 @@ Usage
 
         bash
 
-        python triangle_creator_with_spaces.py
+        python triangle-creator-with-spaces.py
 
         bash
 
-        python triangle_creator_compact.py
+        python triangle-creator-compact.py
 
     Input:
         Enter the number of rows for the triangle.
@@ -24,9 +24,9 @@ Usage
 
 Files
 
-    triangle_creator_with_spaces.py: The Python script for generating triangle patterns.( with spaces in between. )
+    triangle-creator-with-spaces.py: The Python script for generating triangle patterns.( with spaces in between. )
 
-    triangle_creator_compact.py: The Python script for generating triangle patterns.( with no spaces in between. )
+    triangle-creator-compact.py: The Python script for generating triangle patterns.( with no spaces in between. )
     
 Acknowledgments
 
