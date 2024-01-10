@@ -1,5 +1,5 @@
-Triangle Program
-Overview
+# Triangle Program
+## Overview
 
 The Triangle Program is a simple Python script that prints a triangle pattern based on user input. The program prompts the user to enter the number of rows and the character to be used for the triangle. It then generates and displays the triangle pattern.
 Usage
@@ -22,17 +22,17 @@ Usage
     Results:
         The program will generate and print the triangle pattern.
 
-Files
+# Files
 
     triangle-creator-with-spaces.py: The Python script for generating triangle patterns.( with spaces in between. )
 
     triangle-creator-compact.py: The Python script for generating triangle patterns.( with no spaces in between. )
     
-Acknowledgments
+# Acknowledgments
 
     This program is a basic example for learning Python loops and patterns.
 
-Author
+# Author
 
 [Simon Paul]
 
