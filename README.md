@@ -20,8 +20,8 @@ The Triangle Program is a simple Python script that prints a triangle pattern ba
 
 - The program will generate and print the triangle pattern.
 ### 4. Files
-==triangle-creator-with-spaces.py:== The Python script for generating triangle patterns (with spaces in between).
-==triangle-creator-compact.py:== The Python script for generating triangle patterns (with no spaces in between).
+**triangle-creator-with-spaces.py:** The Python script for generating triangle patterns (with spaces in between).
+**triangle-creator-compact.py:** The Python script for generating triangle patterns (with no spaces in between).
 
 ## Acknowledgments
 
