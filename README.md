@@ -26,8 +26,9 @@ The Triangle Program is a simple Python script that prints a triangle pattern ba
 ## Acknowledgments
 
 This program is a basic example for learning Python loops and patterns.
+
 ## Author
 
 [Simon Paul]
 
-Feel free to customize this README based on your specific project details.
+Feel free to customize this program based on your specific project details.
