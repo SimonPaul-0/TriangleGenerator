@@ -36,7 +36,7 @@ The program will generate and print the triangle pattern.
 
 This program is a basic example for learning Python loops and patterns.
 
-## Contributing
+## Contributions
 
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Feel free to contribute, report issues, or customize the program based on your specific project details.Bug fixes, feature enhancements, and code improvements are welcome.
 ## Author
